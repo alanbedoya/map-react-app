@@ -164,7 +164,7 @@ class App extends Component {
           </Card>
         }
         <Card className="footer">
-          <CardText> Made with <span role="img" aria-label="love">💚</span> by <a href="https://github.com/alanbed" target="_blank" rel="noopener noreferrer">Alan</a></CardText>
+          <CardText> Made by <a href="https://github.com/alanbed" target="_blank" rel="noopener noreferrer">AB</a></CardText>
         </Card>
       </div>
     );
