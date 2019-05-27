@@ -11,10 +11,10 @@
     "test": "mocha -w"
   },
   "keywords": [],
-  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "author": "Alan Bedoya",
   "repository": {
     "type": "git",
-    "url": "https://github.com/w3cj/express-api-starter.git"
+    "url": "https://github.com/alanbed/map-react-app"
   },
   "license": "MIT",
   "dependencies": {
@@ -24,7 +24,8 @@
     "helmet": "^3.15.0",
     "joi": "^14.3.1",
     "monk": "^7.0.0",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "now": "^15.3.0"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
